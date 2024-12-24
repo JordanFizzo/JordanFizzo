@@ -34,12 +34,10 @@ I'm a passionate **graphic designer** with a love for crafting stunning visuals.
 
 📬 **Let’s Connect!**  
 I'm always open to collaborating or chatting about design. Reach me at:  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com)  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com)  
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23117AC9?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://www.yourportfolio.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fiston-giraneza-67a2302a7/)  
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jordanfizzo/)   
 
 ✨ Thank you for visiting! Let’s bring ideas to life together.  
 
 ---
 
-Feel free to adjust the links or include more badges/icons! Let me know if you need any additional changes.
