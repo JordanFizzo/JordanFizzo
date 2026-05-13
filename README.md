@@ -5,10 +5,11 @@ Hi! i`m Fiston
 # Hi there! 👋 Welcome to my Creative Space  
 
 🎨 **About Me**  
-I'm a passionate **graphic designer** with a love for crafting stunning visuals. I specialize in tools like **Canva**, **Adobe Creative Suite**, and other design apps to create unique, impactful designs that stand out.  
+I'm a passionate **UI/UX Designer** with a love for crafting stunning visuals. I specialize in tools like **Canva**, **Adobe Creative Suite**,**Figma** and other design apps to create unique, impactful designs that stand out.  
 
-💡 **What I Do**  
-- **Graphic Design**: Logos, branding assets, and marketing materials  
+💡 **What I Do** 
+- **asset Design**: Logos, branding assets, and marketing materials
+- **UI Kit Design**: Grids, layouts and crafted User interface screens
 - **Social Media Content**: Posts, banners, and ads that catch the eye  
 - **Presentations**: Clean, professional, and visually appealing slide decks  
 - **Infographics**: Turning data into visually digestible stories  
@@ -35,7 +36,8 @@ I'm a passionate **graphic designer** with a love for crafting stunning visuals.
 📬 **Let’s Connect!**  
 I'm always open to collaborating or chatting about design. Reach me at:  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fiston-giraneza-67a2302a7/)  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jordanfizzo/)   
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jordanfizzo/)
+- [![Behance](https://img.shields.io/badge/behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/FistonGIRANEZA))  
 
 ✨ Thank you for visiting! Let’s bring ideas to life together.  
 
